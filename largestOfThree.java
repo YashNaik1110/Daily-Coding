@@ -15,7 +15,7 @@ class largestOfThree{
         }else if(sec>=first && sec>=third){
             System.out.println("Second Number is largest ");
         }else if(third>=first&& third>=sec){
-            System.out.println("Third number is equal");
+            System.out.println("Third number is largest");
         }else{
             System.out.println("All Numbers are eqauls");
         }
